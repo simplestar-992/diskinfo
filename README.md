@@ -1,74 +1,36 @@
-# DISKINFO
+# Diskinfo
 
-```
-💎 diskinfo 💎
-╔══════════════════╗
-║   DISKINFO       ║
-╚══════════════════╝
-```
+![Tool](https://img.shields.io/badge/Tool-diskinfo-00ADD8?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-> A powerful tool built for modern developers
+---
 
-## ✨ Features
+## Diskinfo
 
-- 🚀 Blazing fast performance
-- 💎 Clean and intuitive API
-- 🔧 Zero configuration needed
-- 🛡️ Secure by default
-- 📦 Single binary, no dependencies
+A useful command-line tool for developers.
 
-## 📥 Installation
+### Installation
 
 ```bash
 git clone https://github.com/simplestar-992/diskinfo.git
 cd diskinfo
 go build -o diskinfo .
+```
+
+### Usage
+
+```bash
 ./diskinfo --help
 ```
 
-## 🚀 Quick Start
-
-```bash
-./diskinfo -h
-```
-
-## 🧪 Examples
-
-```bash
-# Example 1
-./diskinfo status
-
-# Example 2  
-./diskinfo --verbose
-
-# Example 3
-./diskinfo help
-```
-
-## 📊 Project Info
-
-| Property | Value |
-|----------|-------|
-| Language | Go 🟢 |
-| Status | Active |
-| License | MIT |
-
-## 🤝 Contributing
-
-Contributions welcome! Open an issue or PR.
-
-## 📄 License
-
-MIT © **simplestar-992**
-
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/diskinfo-magenta-magenta?style=for-the-badge" alt=""/>
-  <img src="https://img.shields.io/github/v/tag/simplestar-992/diskinfo?style=for-the-badge" alt=""/>
-  <img src="https://img.shields.io/github/license/simplestar-992/diskinfo?style=for-the-badge" alt=""/>
-</p>
+## Quick Start
 
-<p align="center">
-  Built with ❤️ by <a href="https://github.com/simplestar-992">simplestar-992</a>
-</p>
+```bash
+./diskinfo [command]
+```
+
+## License
+
+MIT © 2024 [simplestar-992](https://github.com/simplestar-992)
